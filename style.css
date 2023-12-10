@@ -7,6 +7,9 @@ h1 {
 
 }
 
+.font-rubik {
+    font-family: 'Rubik', sans-serif;
+}
 .font-customweight {
     font-weight: 700;
 }
